@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pomodoro",
-    "slug": "pomodoro",
+    "name": "Dr Pomodoro",
+    "slug": "dr pomodoro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
